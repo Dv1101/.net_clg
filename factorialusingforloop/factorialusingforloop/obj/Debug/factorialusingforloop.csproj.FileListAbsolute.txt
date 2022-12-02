@@ -1,0 +1,8 @@
+C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\bin\Debug\factorialusingforloop.exe.config
+C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\bin\Debug\factorialusingforloop.exe
+C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\bin\Debug\factorialusingforloop.pdb
+C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.exe
+C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.pdb
