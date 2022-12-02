@@ -1,0 +1,8 @@
+C:\Users\dhruv\source\repos\loopdemo\loopdemo\bin\Debug\loopdemo.exe.config
+C:\Users\dhruv\source\repos\loopdemo\loopdemo\bin\Debug\loopdemo.exe
+C:\Users\dhruv\source\repos\loopdemo\loopdemo\bin\Debug\loopdemo.pdb
+C:\Users\dhruv\source\repos\loopdemo\loopdemo\obj\Debug\loopdemo.csproj.AssemblyReference.cache
+C:\Users\dhruv\source\repos\loopdemo\loopdemo\obj\Debug\loopdemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhruv\source\repos\loopdemo\loopdemo\obj\Debug\loopdemo.csproj.CoreCompileInputs.cache
+C:\Users\dhruv\source\repos\loopdemo\loopdemo\obj\Debug\loopdemo.exe
+C:\Users\dhruv\source\repos\loopdemo\loopdemo\obj\Debug\loopdemo.pdb
