@@ -6,31 +6,30 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class calculator
+    internal class Program
     {
-        public void add(int x, int y)
-        {
-            Console.WriteLine("The sum is {0}", (x + y));
-        }
-        public int substract(int x, int y)
-        {
-            int c;
-            c = x - y;
-            return c;
-        }
-    }
-     class Program
-    {
-        
         static void Main(string[] args)
         {
-            calculator pp = new calculator();
-            pp.add(12, 4);
-            int substractionresult = pp.substract(12, 6);
-            Console.WriteLine("The substraction is {0}", substractionresult);
-            // or like this also u can print
-            Console.WriteLine("The substraction is {0}", pp.substract(12, 7));
-            Console.ReadLine();
+            string firstname, middlename, lastname;
+            Console.WriteLine("enter firstname:");
+            firstname = Console.ReadLine();
+            Console.WriteLine("enter middle name");
+            middlename = Console.ReadLine();
+            Console.WriteLine("enter last name:");
+            lastname = Console.ReadLine();
+            string fullname = firstname + " " + middlename + " " + lastname;
+            string fullname2 = string.Concat(firstname, " ", middlename, " ", lastname);
+            Console.WriteLine("{0}", fullname);
+            Console.WriteLine("{0}", fullname2.ToUpper());
+            Console.WriteLine("enter new first name");
+            string newfirstname = Console.ReadLine();
+            Console.WriteLine("{0}", fullname.Replace(firstname, newfirstname));
+            Console.WriteLine("extracting middle name ");
+            Console.WriteLine("{0}", fullname.Substring(6,5));// kumar taking and printing
+           Console.ReadLine();
+
+
+
 
 
         }
