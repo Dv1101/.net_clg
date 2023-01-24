@@ -6,3 +6,11 @@ C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debu
 C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.csproj.CoreCompileInputs.cache
 C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.exe
 C:\Users\dhruv\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.pdb
+D:\Sem-6\programming\dot_net_lab\source\repos\factorialusingforloop\factorialusingforloop\bin\Debug\factorialusingforloop.exe.config
+D:\Sem-6\programming\dot_net_lab\source\repos\factorialusingforloop\factorialusingforloop\bin\Debug\factorialusingforloop.exe
+D:\Sem-6\programming\dot_net_lab\source\repos\factorialusingforloop\factorialusingforloop\bin\Debug\factorialusingforloop.pdb
+D:\Sem-6\programming\dot_net_lab\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.csproj.AssemblyReference.cache
+D:\Sem-6\programming\dot_net_lab\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.csproj.SuggestedBindingRedirects.cache
+D:\Sem-6\programming\dot_net_lab\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.csproj.CoreCompileInputs.cache
+D:\Sem-6\programming\dot_net_lab\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.exe
+D:\Sem-6\programming\dot_net_lab\source\repos\factorialusingforloop\factorialusingforloop\obj\Debug\factorialusingforloop.pdb
